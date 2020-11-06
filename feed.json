@@ -1,5 +1,14 @@
 {
-    "posts":[
+    "status": "ok",
+    "feed": {
+        "url": "https://www.amcom.com.br/feed/",
+        "title": "AMCOM | Soluções para Negócio",
+        "link": "https://www.amcom.com.br/",
+        "author": "",
+        "description": "Especialista em sustentação e desenvolvimento customizado de sistemas para empresas",
+        "image": "https://www.amcom.com.br/wp-content/uploads/2019/12/cropped-favicon-32x32.png"
+    },
+    "items": [
         {
             "title": "3 pilares para repensar o modelo operacional do seu negócio",
             "pubDate": "2020-10-20 20:13:07",
